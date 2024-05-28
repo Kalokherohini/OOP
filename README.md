@@ -1,2 +1,2 @@
-# OOP(object oriented programmimg language)
+# OOP(object oriented programming language)
 SPPU Lab
